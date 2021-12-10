@@ -1,0 +1,22 @@
+{
+  "name": "try-xlsx-populate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goda-kazuki/try-xlsx-populate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goda-kazuki/try-xlsx-populate/issues"
+  },
+  "homepage": "https://github.com/goda-kazuki/try-xlsx-populate#readme",
+  "dependencies": {
+    "xlsx-populate": "^1.21.0"
+  }
+}
